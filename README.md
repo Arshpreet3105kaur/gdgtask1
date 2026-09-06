@@ -23,5 +23,5 @@ This project performs a comprehensive Exploratory Data Analysis (EDA) on a road 
 ---
 
 ## 📂 Repository Structure
-* `Untitled2.ipynb` - Jupyter Notebook containing data loading, inspection, cleaning, and visualizations.
+* `codegdg.ipynb` - Jupyter Notebook containing data loading, inspection, cleaning, and visualizations.
 * `README.md` - Project documentation and summary of findings.
